@@ -1,14 +1,14 @@
 {
   "name": "Taktik-Treppe",
   "short_name": "Taktik-Treppe",
-  "description": "Schach lernen: Taktik-Puzzles, Eröffnungen und Partien gegen Bots",
+  "description": "Schach lernen: Eröffnungskurse mit Wiederholungs-Rhythmus, Taktik-Puzzles und Partien gegen Bots",
   "lang": "de",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#ECEFEA",
-  "theme_color": "#2F5D50",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
   "icons": [
     {
       "src": "icon-192.png",
